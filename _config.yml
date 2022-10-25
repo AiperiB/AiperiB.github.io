@@ -2,4 +2,4 @@ title: Pepe's website
 description: personal website
 show_downloads: false
 google_analytics: 
-theme: maximalism-theme 
+theme: jekyll-theme-architect
